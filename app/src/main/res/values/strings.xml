@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatOnAndroid</string>
+    <string name="MassageInput">Отправить</string>
+    <string name="MassageInputText">Ведите сообщение</string>
+</resources>
